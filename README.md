@@ -1,7 +1,7 @@
 # hello-world
 Just another repository
 
-Hi Encore Group
+Hi, Encore Group,
 
 CK here. Hoping to learn and survive the Stats-Data Analysis world.
 My daughter codes but I thought I'd rather sit in a vat of sludge than do code.
